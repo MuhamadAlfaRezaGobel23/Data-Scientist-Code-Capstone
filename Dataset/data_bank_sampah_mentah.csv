@@ -1,0 +1,234 @@
+data_bulan,data_tahun,nama,id_tps,alamat,kecamatan,kelurahan,jenis_fasilitas,thn_bangun,klasifikasi_struktur,klasifikasi_pengangkutan,tahun,status,kapasitas,vol_masuk,vol_dikelola,volume_sampah_diolah,vol_diangkut,waktu_angkut
+3,2025,TPS Dinoyo,17,Jl. Siliwangi,Kec. Tegalsari,Kel. Keputran,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS Taman Ketampon,18,Jl. Taman Ketampon,Kec. Wonokromo,Kel. Darmo,TPS,0,TPS,compactor,,aktif,23,23,23,23,23,1
+3,2025,TPS Pasar Keputran,19,Jl. Keputran Utara,Kec. Tegalsari,Kel. Keputran,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS Tubanan,20,Jl. Tubanan,Kec. Tandes,Kel. Karangpoh,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Karangpoh,21,Jl. Darmo Indah Barat II,Kec. Tandes,Kel. Karangpoh,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Balongsari,22,Jl. Balongsari,Kec. Tandes,Kel. Balongsari,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Manukan Wetan,23,Jl. Sikatan,Kec. Tandes,Kel. Manukan Wetan,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Manukan Kulon,24,Jl. Manukan Kulon,Kec. Tandes,Kel. Manukan Kulon,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Manukan Telaga,25,Jl. Manukan Peni VII,Kec. Tandes,Kel. Manukan Wetan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Buntaran,26,Jl. Buntaran,Kec. Tandes,Kel. Manukan Wetan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Darmo Indah,27,Jl. Darmo Indah,Kec. Tandes,Kel. Tandes,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Griya Citra Asri,28,Jl. Perum Griya Citra Asri,Kec. Benowo,Kel. Kandangan,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Tengger,29,Jl. Tengger Raya,Kec. Tandes,Kel. Banjar Sugihan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Kandangan,30,"Jl, Kandangan",Kec. Benowo,Kel. Kandangan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Kendung Makam,32,Jl. Sememi,Kec. Sememi,Kel. Sememi,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Kendung BDH,33,Jl. Raya Kendung Benowo,Kec. Sememi,Kel. Sememi,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS Bandarejo Sememi,34,Jl. Bandarejo Pasar Sememi,Kec. Benowo,Kel. Sememi,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Romokalisari,35,Jl. Romokalisari,Kec. Romokalisari,Kel. Romokalisari,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Rusunawa Romokalisari,36,Jl. Rusunawa Romokalisari,Kec. Benowo,Kel. Romokalisari,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Babat Jerawat,37,Jl. Dukuh Jerawat,Kec. Benowo,Kel. Babat Jerawat,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Langkir,38,Jl. Sendang Bulu,Kec. Benowo,Kel. Babat Jerawat,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Pondok Benowo Indah,39,Perum Pondok Benowo Indah,Kec. Pakal,Kel. Babat Jerawat,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Pasar Benowo,40,Jl. Raya Benowo,Kec. Pakal,Kel. Benowo,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Benowo Krajan,41,jl. benowo krajan,Kec. Pakal,Kel. Benowo,TPS,0,tps,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS JURANG KUPING,42,JL. JURANG INDAH,Kec. Pakal,Kel. Pakal,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS SUMBEREJO MAKAM,43,JL. SUMBEREJO 2,Kec. Pakal,Kel. Sumberejo,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS SUMBEREJO KRENUK,44,JL. KRENUK SUMBEREJO,Kec. Pakal,Kel. Sumberejo,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS PAKAL TIMUR,45,JL. PAKAL SUMBERAN,Kec. Pakal,Kel. Pakal,TPS,0,LANDASAN,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS PAKAL MADYA,46,JL. PAKAL MADYA,Kec. Pakal,Kel. Pakal,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS LEMPUNG PERDANA,47,JL LONTAR,Kec. Sambikerep,Kel. Lontar,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS CANDI LONTAR,48,JL. LEMPUNG SARI,Kec. Sambikerep,Kel. Lontar,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS SAWO,49,JL SAWO 6,Kec. Sambikerep,Kel. Bringin,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS BRINGIN,50,JL. BRINGIN,Kec. Sambikerep,Kel. Bringin,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS ALAS MALANG,51,JL. ALAS MALANG,Kec. Sambikerep,Kel. Bringin,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS KUWUKAN,52,JL. KUWUKAN SAMBIKEREP,Kec. Sambikerep,Kel. Sambikerep,TPS,0,LANDASAN,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS LAKARSANTRI,53,JL. LAKARSANTRI,Kec. Lakarsantri,Kel. Lakarsantri,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS WISMA LIDAH KULON,54,PERUM WISMA LIDAH KULON,Kec. Lakarsantri,Kel. Lidah Kulon,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS LIDAH KULON (Pengganti),55,JL. Raya Lidah Kulon,Kec. Lakarsantri,Kel. Lidah Kulon,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS LIDAH WETAN UNESA,56,JL. WADUK UNESA,Kec. Lakarsantri,Kel. Lidah Wetan,TPS,0,LANDASAN,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS ASPOL BANGKINGAN,57,JL. RAYA BANGKINGAN (ASPOL),Kec. Lakarsantri,Kel. Bangkingan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS SUMUR WELUT,58,JL. SUMBERAN SUMUR WELUT,Kec. Lakarsantri,Kel. Sumur Welut,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS Sukomanunggal,59,Jl. Suko Manunggal,Kec. Sukomanunggal,Kel. Sukomanunggal,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Simohilir,60,Jl. Simo Hilir,Kec. Sukomanunggal,Kel. Simo Mulyo,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Simorukun,61,Jl. Simo Mulyo,Kec. Sukomanunggal,Kel. Simo Mulyo,TPS,0,TPS,armroll,,aktif,33,33,33,33,33,1
+3,2025,TPS WISMA PERMAI,143,JL. WISMA PERMAI,Kec. Mulyorejo,Kel. Kalisari,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS PUTAT GEDE,62,JL. PUTAT GEDE BARAT,Kec. Sukomanunggal,Kel. Putat Gede,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Sutorejo,144,Jl. Sutorejo,Kec. Mulyorejo,Kel. Dukuh Sutorejo,TPS,0,TPS,compactor,,aktif,33,33,33,33,33,1
+3,2025,TPS Kalijudan,145,Jl. Kalijudan,Kec. Mulyorejo,Kel. Kalijudan,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS SONOKWIJENAN,63,JL. SONOKWIJENAN,Kec. Sukomanunggal,Kel. Sonokwijenan,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS Bukit Barisan,146,Jl. Bukit Barisan,Kec. Sawahan,Kel. Petemon,TPS,0,TPS,compactor,,aktif,59.4,59.4,59.4,59.4,59.4,1
+3,2025,TPS PASAR ASEMROWO,64,JL. ASEMRAYA,Kec. Asemrowo,Kel. Asemrowo,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS JAYAMIX,65,JL. DUPAK RUKUN,Kec. Asemrowo,Kel. Asemrowo,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS GENTING,66,JL. GENTING,Kec. Asemrowo,Kel. Asemrowo,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS GREGES,67,JL. GREGES KALIANAK,Kec. Asemrowo,Kel. Tambaksarioso,TPS,0,LANDASAN,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS PETEMON KUBURAN,147,JL. PETEMON KUBURAN,Kec. Sawahan,Kel. Petemn,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Kembang Kuning,148,Jl. Kembang Kuning,Kec. Sawahan,Kel. Darmo,TPS,0,TPS,compactor,,aktif,42,42,42,42,42,1
+3,2025,TPS Simo Katrungan,149,Jl. Simo Katrungan,Kec. Sawahan,Kel. Banyu Urip,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,LANDASAN BINTANG DIPONGGO,68,JL. BINTANG DIPONGGO,Kec. Sawahan,Kel. Pakis,TPS,0,LANDASAN,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS DUPAK BANDAREJO,69,DUPAK BNDAREJO,Kec. Krembangan,Kel. Dupak,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS SIMO KWAGEAN (MATARAM UTARA),150,JL. MAKAM PUTAT,Kec. Sawahan,Kel. Putat Jaya,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS DUPAK BANGUNSARI,70,DUPAK BANGUNSARI,Kec. Krembangan,Kel. Dupak,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS MAKAM MATARAM,151,JL. MAKAM PUTAT JAYA,Kec. Sawahan,Kel. Putat Jaya,TPS,0,TPS,armroll,,aktif,56,56,56,56,56,1
+3,2025,TPS Joyoboyo,152,Jl. Joyoboyo Gunungsari,Kec. Wonokromo,Kel. Sawunggaling,TPS,0,TPS,compactor,,aktif,26.4,26.4,26.4,26.4,26.4,1
+3,2025,TPS WONOBOYO,153,JL. WONOBOYO BATANGHARI,Kec. Wonokromo,Kel. Swunggaling,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Mbah Ratu,71,Jl. Gresik,Kec. Krembangan,Kel. Morokrembangan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS BRIMOB PPI,72,JL. SEDAYU 2,Kec. Krembangan,Kel. Morokrembangan,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,LANDASAN TAMBAK ASRI,73,JL. TAMBAK ASRI,Kec. Asemrowo,Kel. Genting Kalianak,TPS,0,LANDASAN,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS TANJUNG SADARI,74,JL. TANJUNG SADARI,Kec. Krembangan,Kel. Perak Barat,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS KREMBANGAN BARAT,75,JL.KREMBANGAN BARAT,Kec. Krembangan,Kel. Krembangan Selatan,TPS,0,TPS,compactor,,aktif,42,42,42,42,42,1
+3,2025,TPS Bukit Mas,154,Jl. Puncak Bukit Mas - Dukuh pakis,Kec. Dukuh Pakis,Kel. Dukuh Pakis,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS MOROKREMBANGAN,76,JL. GADUKAN UTARA,Kec. Krembangan,Kel. Morokrembangan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Wonokusumo Kidul,77,Jl. Wonokusumo Kidul,Kec. Pegirian,Kel. Pegirian,TPS,0,TPS,compactor,,aktif,39.6,39.6,39.6,39.6,39.6,1
+3,2025,TPS PEGIRIAN,78,JL. PEGIRIAN,Kec. Semampir,Kel. Sidotopo,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS BENTENG,79,JL. BENTENG,Kec. PABEAN CANTIKAN,Kel. Nyamplungan,TPS,0,LANDASAN,compactor,,aktif,42,42,42,42,42,1
+3,2025,LANDASAN KERTOPATEN,80,JL. KERTOPATEN,Kec. SIMOKERTO,Kel. Sidodadi,TPS,0,LANDASAN,compactor,,aktif,42,42,42,42,42,1
+3,2025,LANDASAN KASUARI,81,JL. KASUARI,Kec. PABEAN CANTIKAN,Kel. Krembangan Utara,TPS,0,LANDASAN,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS THP Kenjeran,82,Jl. Kenjeran,Kec. Kenjeran,Kel. Kenjeran,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Jati Srono,83,Jl. Jati Srono,Kec. Semampir,Kel. Ujung,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Jati Purwo,84,Jl. Jati purwo,Kec. Semampir,Kel. Ujung,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS MRUTU KALIANYAR,85,JL. MRUTU KALIANYAR,Kec. Semampir,Kel. Wonokusumo,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS PESAPEN POMPA,86,JL PESAPEN POMPA,Kec. Pabean Cantian,Kel. Krembangan Utara,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS PASAR BABAAN,87,JL. KEBALEN KULON,Kec. Pabean Cantian,Kel. Krembangan Utara,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS INDRAPURA PLN,88,JL. INDRAPURA JAYA,Kec. Pabean Cantian,Kel. Perak Timur,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS SEMUT KALI,89,JL SEMUT KLI,Kec. Pabean Cantian,Kel. Bongkaran,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS Tambak Deres,90,Jl. Tambak Deres,Kec. Bulak,Kel. Bulak,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Memet,91,Jl. Memet Sastro Wirya,Kec. Kenjeran,Kel. Bulak,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,Landasan Jl. Platuk,92,Jl. DK Bulak Banteng,Kec. Kenjeran,Kel. Bulak Banteng,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS SIDOTOPO WETAN PASAR,93,PASAR SIDOTOPO WETAN,Kec. Kenjeran,Kel. Sidotopo Wetan,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Bulak Banteng Podomoro,94,Jl. Bulak Banteng Pasar Podomoro,Kec. Kenjeran,Kel. Bulak Banteng,TPS,0,TPS,compactor,,aktif,26.4,26.4,26.4,26.4,26.4,1
+3,2025,TPS Bulak Banteng Timur,95,Jl. Bulak Banteng Timur,Kec. Kenjeran,Kel. Bulak Banteng,TPS,0,TPS,armroll,,aktif,16,16,16,16,16,1
+3,2025,TPS DUKUH BULAK BANTENG,96,JL. BULAK BANTENG SEKOLAHAN,Kec. Kenjeran,Kel. Bulak Banteng,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Tanah Kali Kedinding,97,Jl. Tanah Kali Kedinding,Kec. Kenjeran,Kel. Kedung Cowek,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Tambak Wedi,98,Jl. Tambak Wedi,Kec. Kenjeran,Kel. Tambak Wedi,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Bogen,99,Jl. Bogen Tambaksari,Kec. Tambaksari,Kel. Ploso,TPS,0,TPS,compactor,,aktif,39.6,39.6,39.6,39.6,39.6,1
+3,2025,TPS Gubeng Masjid,100,Jl. Gubeng Masjid,Kec. Tambaksari,Kel. Pacar Keling,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Gubeng Masjid Pasar,101,Jl. Gubeng Masjid,Kec. Tambaksari,Kel. Pacar Keling,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Candi Puro,102,Jl. Candipuro,Kec. Tambaksari,Kel. Pacar Keling,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Pasar Pacar Keling,103,Jl. Pacar Keling,Kec. Tambaksari,Kel. Pacar Keling,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS PETOJO,104,JL. PETOJO,Kec. Tambaksari,Kel. Pacar Keling,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Kaliwaron,105,Jl. Kaliwaron,Kec. Gubeng,Kel. Mojo,TPS,0,TPS,compactor,,aktif,29.7,29.7,29.7,29.7,29.7,1
+3,2025,TPS Mojoarum,106,Jl. Mojoarum,Kec. Gubeng,Kel. Mojo,TPS,0,TPS,compactor,,aktif,23.1,23.1,23.1,23.1,23.1,1
+3,2025,TPS Srikana,107,Jl. Srikana,Kec. Gubeng,Kel. Airlangga,TPS,0,TPS,compactor,,aktif,26.4,26.4,26.4,26.4,26.4,1
+3,2025,TPS Kangean,108,Jl. Kangean,Kec. Gubeng,Kel. Gubeng,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS Pasar Pucang,109,Jl. Pasar Pucang Anom,Kec. Gubeng,Kel. Gubeng,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Kalibokor,110,Jl. Kalibokor,Kec. Gubeng,Kel. Pucang Sewu,TPS,0,TPS,compactor,,aktif,33,33,33,33,33,1
+3,2025,TPS Bratang,111,Jl. Bratang Binangun,Kec. Gubeng,Kel. Barata Jaya,TPS,0,TPS,compactor,,aktif,52.8,52.8,52.8,52.8,52.8,1
+3,2025,TPS Ngagel Dadi,112,Jl. Ngagel Dadi III,Kec. Wonokromo,Kel. Ngagel Rejo,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Bratang Lapangan,113,Jl. Bratang Lapangan,Kec. Gubeng,Kel. Ngagel Rejo,TPS,0,TPS,armroll,,aktif,14,14,12,14,14,1
+3,2025,TPS BARATA JAYA,114,JL. BARATAJAYA,Kec. Gubeng,Kel. Baratajaya,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Buktong,115,Jl. Menur - Manyar,Kec. Sukolilo,Kel. Menur Pumpungan,TPS,0,Penempatan Container Plastik,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS Tenggilis Utara,137,Jl. Tenggilis Utara,Kec. Tenggilis Mejoyo,Kel. Tenggilis Utara,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS ITS,116,Jl. Arif Rahman Hakim,Kec. Sukolilo,Kel. Keputih,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS IPLT Keputih,117,Jl. Keputih Tegal,Kec. Sukolilo,Kel. Keputih,TPS,0,TPS,armroll,,aktif,14,14,14,14,12,1
+3,2025,TPS Gebang Putih,118,Jl. Gebang Putih,Kec. Sukolilo,Kel. Gebang Putih,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Klampis Ngasem,119,Jl. Klampis Ngasem,Kec. Sukolilo,Kel. Klampis Ngasem,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS Kendangsari Telkom,138,Jl. Raya Kendangsari,Kec. Tenggilis Mejoyo,Kel. Penjaringan Sari,TPS,0,TPS,compactor,,aktif,33,33,33,33,33,1
+3,2025,TPS Semolowaru,120,Jl. Semolowaru,Kec. Sukolilo,Kel. Semolowaru,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS KUTISARI PLN,139,JL. KUTISARI PLN,Kec. Tenggilis Mejoyo,Kel. Kutisari,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS SEMOLOWARU BAHARI (TPU KEPUTIH),121,JL. MEDOKAN KEPUTIH,Kec. Sukolilo,Kel. Medokan Semampir,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Prapen,140,Jl. Raya Prapen,Kec. Tenggilis Mejoyo,Kel. Panjang Jiwo,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS PRADAH KALI KENDAL,155,JL. DARMO PERMAI SELATAN,Kec. Dukuh Pakis,Kel. Pradah Kali Kendal,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS Medokan Semampir,122,Jl. Medokan Semampir,Kec. Sukolilo,Kel. Medokan Semampir,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS ASPOL NGINDEN INTAN,123,JL. NGINDEN INTAN TIMUR,Kec. Sukolilo,Kel. Nginden Jangkungan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Jetis Kulon,156,Jl. Jetis Kulon,Kec. Wonokromo,Kel. Wonokromo,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS KEJAWAN PUTIH TAMBAK,124,JL. KEJAWAN PUTIH TAMBAK,Kec. Mulyorejo,Kel. Kejawan Putih Tambak,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS Ngagel,157,Jl. Ngagel,Kec. Wonokromo,Kel. Ngagel,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS Rungkut Alang-Alang,125,Jl. Kali Rungkut,Kec. Rungkut,Kel. Kalirungkut,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS Rungkut Kidul (Pasar Pahing),126,Jl. Pasar Rungkut Kidul Pasar Pahing,Kec. Rungkut,Kel. Rungkut Kidul,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Pasar Beras Bendul Merisi,158,Jl. Bendul Merisi,Kec. Wonokromo,Kel. Bendul Merisi,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Jagir,159,Jl. Jagir,Kec. Wonokromo,Kel. Jagir,TPS,0,TPS,compactor,,aktif,26.4,26.4,26.4,26.4,26.4,1
+3,2025,TPS Raya Prapen,160,Jl. Raya Prapen Sisi Barat,Kec. Tenggilis Mejoyo,Kel. Panjang Jiwo,TPS,0,LANDASAN,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,DEPO BENDUL MERISI,161,JL. BENDUL MERISI SELATAN,Kec. Wonokromo,Kel. Bendul Merisi,TPS,0,TPS,armroll,,aktif,42,42,42,42,42,1
+3,2025,TPS Prapen DKK,162,Jl. Jemur Sari DKK,Kec. Tenggilis Mejoyo,Kel. Panjang Jiwo,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS PASAR KEDURUS,163,JL. PASAR KEDURUS,Kec. Karangpilang,Kel. Kedurus,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Kemlaten,164,Jl. Mastrip,Kec. Karangpilang,Kel. Kedurus,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS bogangin,165,Jl. Mastrip,Kec. Karangpilang,Kel. Kedurus,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS KEBRAON,166,JL. KEBRAON SELATAN,Kec. Karangpilang,Kel. Kebraon,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS RUSUNAWA WARUGUNUNG,167,JL. MASTRIP WARUGUNUNG,Kec. Karangpilang,Kel. Warugunung,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Kendal Sari Wonorejo,127,Jl. Kendalsari ( Barat Kebun Bibit ),Kec. Rungkut,Kel. Penjaringan Sari,TPS,0,TPS,armroll,,aktif,16.5,16.5,16.5,16.5,16.5,1
+3,2025,TPS KETINTANG BARU SELATAN,168,JL. KETINTANG SELATAN,Kec. Jambangan,Kel. Ketintang,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS Gayungsari,169,Jl. Gayungsari 4,Kec. Gayungan,Kel. Gayungan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Penjaringan Sari,128,Jl. Pandugo,Kec. Rungkut,Kel. Penjaringansari,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS GAYUNGPRING,170,JL GAYUNGSARI 4,Kec. Gayungan,Kel. Menanggal,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Medokan Ayu,129,Jl. Medokan Asri Tengah,Kec. Rungkut,Kel. Medokan Ayu,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS PASAR KEBONSARI,171,JL KEBONSARI TENGAH,Kec. Jambangan,Kel. Kebonsari,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Wonorejo,130,Jl. Raya Wonorejo,Kec. Rungkut,Kel. Wonorejo,TPS,0,TPS,compactor,,aktif,26.4,26.4,26.4,26.4,26.4,1
+3,2025,TPS MENANGGAL YKP,172,JL MENANGGAL YKP,Kec. Gayungan,Kel. Menanggal,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Rungkut Asri Merr,131,Jl. Rungkut asri,Kec. Rungkut,Kel. Rungkut Kidul,TPS,0,TPS,compactor,,aktif,14,14,14,14,14,1
+3,2025,TPS DUKUH MENANGGAL IKIP,173,JL DUKUH MENANGGAL XII,Kec. Gayungan,Kel. Dukuh Menanggal,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Rungkut Menanggal,132,Jl. Rungkut Menanggal Harapan,Kec. Gunung Anyar,Kel. Rungkut Menanggal,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Manukan Kulon Baru,174,Jl. Manukan Kulon,Kec. Tandes,Kel. Manukan Kulon,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Bibis Karah,175,Jl. Karah,Kec. Jambangan,Kel. Karah,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Metro Merr,133,Jl. Sukarno hatta (pojok Merr gunung Anyar),Kec. Gunung Anyar,Kel. Rungkut Kidul,TPS,0,TPS,compactor,,aktif,9.9,9.9,9.9,9.9,9.9,1
+3,2025,TPS Jambangan,176,Jl. Jambangan,Kec. Jambangan,Kel. Jambangan,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Pagesangan,177,Jl. Pagesangan,Kec. Gayungan,Kel. Pagesangan,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS KEBONSARI MAKAM,178,JL KEBONSARI MAKAM,Kec. Gayungan,Kel. Kebonsari,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS WIGUNA TIMUR,134,JL. WIGUNA TIMUR,Kec. Gunung Anyar,Kel. Gunung Anyar,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Purimas,135,Jl. Perum Purimas Gunung anyar,Kec. Gunung Anyar,Kel. Gunung Anyar,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Pakal Sidorejo,136,Jl. Pakal Sidorejo,Kec. Pakal,Kel. Pakal,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Dupak Prahu,5,Jl. Babadan Dupak,Kec. Bubutan,Kel. Jepara,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS PASAR WIYUNG,179,JL. MENGANTI WIYUNG,Kec. Wiyung,Kel. Wiyung,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS BABATAN INDAH,180,JL BABATAN INDAH,Kec. Wiyung,Kel. Babatan,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS TPI WIYUNG,181,JL TPI WIYUNG,Kec. Wiyung,Kel. Wiyung,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS WIYUNG KRAMAT,182,JL KRAMAT WIYUNG,Kec. Wiyung,Kel. Jajar Tunggal,TPS,0,LANDASAN,armroll,,aktif,8,8,8,8,8,1
+3,2025,TPS Gogor / Jajar Tunggal,183,Jl. Mastrip,Kec. Wiyung,Kel. Jajar Tunggal,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS PONDOK MANGGALA,184,JL. PONDOK MNGGALA,Kec. Wiyung,Kel. Balas Klumprik,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Balas Klumprik,185,Jl. Koterm Balas Klumprik,Kec. Wiyung,Kel. Balas Klumprik,TPS,0,LANDASAN,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Karang Pilang Marinir (Ps. Hewan),186,Jl. Bumi Marinir,Kec. Karangpilang,Kel. Karangpilang,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS JERUK,187,JL. JERUK,Kec. Lakarsantri,Kel. Jeruk,TPS,0,TPS,compactor,,aktif,28,28,28,28,28,1
+3,2025,TPS Gunungsari Yani Golf,188,Jl. Golf V,Kec. Dukuh Pakis,Kel. Gunung Sari,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Jogoloyo,189,Jl. Jogoloyo,Kec. Dukuh Pakis,Kel. Gunung Sari,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Siwalankerto,190,Jl. Siwalan Kerto,Kec. Wonocolo,Kel. Siwalankerto,TPS,0,LANDASAN,compactor,,aktif,26.4,25.4,25.4,26.4,25.4,1
+3,2025,TPS Bangkingan,191,Jl. Raya Bangkingan,Kec. Lakarsantri,Kel. Bangkingan,TPS,0,TPS,armroll,,aktif,8,8,8,8,8,1
+3,2025,PLTSa Tambak Oso Wilangun,,Jl. Tambak Oso Wilangun Kelurahan,Kec.  Benowo,Kel.  Tambak Oso Wilangun,PLTSa,2019,PLTSa,armroll,,tidak aktif,0,0,0,0,0,
+3,2025,RUKOM MENUR,,Jl. Menur,Kec.  Gubeng,Kel.  Mojo,Rumah Kompos,2007,Rumah Kompos,armroll,,aktif,20,4.833333333,4.833333333,3.266666667,,
+3,2025,TPS3R KARANGPILANG,,Jl. Mastrip gg. surya,Kec.  Karangpilang,Kel.  Karang Pilang,TPS 3R,2019,TPS 3R,compactor,2020,aktif,20,0,0,0,0,
+3,2025,TPS3R GUNUNGANYAR,,Jl. Gununganyar,Kec.  Gunung Anyar,Kel.  Gunung Anyar,TPS 3R,2019,TPS 3R,compactor,2020,aktif,20,256.99,256.99,135.3566667,0,
+3,2025,RUKOM KEPUTRAN,,Jl. Keputran,Kec.  Gubeng,Kel.  Keputran,Rumah Kompos,2007,Rumah Kompos,armroll,,aktif,14,11.27777778,11.27777778,11.27777778,,
+3,2025,TPS Prapen Sisi Timur (Depan Graha Track),141,Jl. Raya Prapen (Sisi Timur),Kec. Tenggilis Mejoyo,Kel. Panjang Jiwo,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS Simolawang,6,Jl. Simolawang,Kec. Simokerto,Kel. Simolawang,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Jemur Wonosari,142,Jl. Jemur Wonosari,Kec. Wonocolo,Kel. Jemur Wonosari,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS Kalibutuh,1,Jl. Raya Demak,Kec. Bubutan,Kel. Tembok Dukuh,TPS,0,TPS,compactor,,aktif,52.8,52.8,52.8,52.8,52.8,1
+3,2025,TPS Pirngadi,2,Jl. Pirngadi,Kec. Bubutan,Kel. Bubutan,TPS,0,TPS,armroll,,aktif,28,28,28,28,28,1
+3,2025,TPS Penghela,3,Jl. Penghela,Kec. Bubutan,Kel. Bubutan,TPS,0,TPS,compactor,,aktif,33,33,30,33,33,1
+3,2025,TPS Sulung Kali,4,Jl. Sulung Kali,Kec. Bubutan,Kel. Alon Alon Contong,TPS,0,TPS,compactor,,aktif,26.4,26.4,26.4,26.4,26.4,1
+3,2025,TPS Kapasan,7,Jl. Pasar Kapasan,Kec. Simokerto,Kel. Sidodadi,TPS,0,TPS,armroll,,aktif,14,14,14,14,14,1
+3,2025,TPS Tambak Rejo,8,Jl. Tambak Rejo,Kec. Simokerto,Kel. Tambak Rejo,TPS,0,TPS,compactor,,aktif,52.8,52.8,52.8,52.8,52.8,1
+3,2025,TPS Simpang Dukuh,9,Jl. Simpang Dukuh,Kec. Genteng,Kel. Genteng,TPS,0,TPS,compactor,,aktif,26.4,26.4,26.4,26.4,26.4,1
+3,2025,TPS Pasar Genteng,10,Jl. Genteng Besar,Kec. Genteng,Kel. Genteng,TPS,0,TPS,compactor,,aktif,26,26,26,26,26,1
+3,2025,TPS Kayon,11,Jl. Kayon,Kec. Genteng,Kel. Embong Kaliasin,TPS,0,TPS,compactor,,aktif,19.8,19.8,19.8,19.8,19.8,1
+3,2025,TPS Legundi,12,Jl. Anggrek,Kec. Ketabang,Kel. Ketabang,TPS,0,TPS,compactor,,aktif,29.7,29.7,29.7,29.7,29.7,1
+3,2025,TPS Makam Peneleh,13,Jl. Makam Peneleh,Kec. Peneleh,Kel. Peneleh,TPS,0,TPS,compactor,,aktif,23.1,23.1,23.1,23.1,23.1,1
+3,2025,TPS Kedondong,14,Jl. Kedondong,Kec. Tegalsari,Kel. Tegalsari,TPS,0,TPS,armroll,,aktif,42,42,42,42,42,1
+3,2025,TPS Kedung Anyar,15,Jl. Kedung Anyar,Kec. Kedungdoro,Kel. Kedungdoro,TPS,0,TPS,compactor,,aktif,33,33,33,33,33,1
+3,2025,TPS Pasar Kembang,16,Jl. Wonorejo III (Pasar kembang),Kec. Tegalsari,Kel. Wonorejo,TPS,0,TPS,compactor,,aktif,26.4,26.4,26.4,26.4,26.4,1
+3,2025,RUKOM SONOKWIJENAN,,Jl. Darmo Baru Barat XII,Kec.  Sukomanunggal,Kel.  Sonokwijenan,Rumah Kompos,2019,Rumah Kompos,armroll,,aktif,20,3.922222222,3.922222222,3.922222222,,
+3,2025,PLTSa Wonorejo,,Jl. Kendalsari - Wonorejo (Kebun Bibit Wonorejo),Kec.  Rungkut,Kel.  Wonorejo,PLTSa,2017,PLTSa,armroll,,tidak aktif,0,0,0,0,,
+3,2025,TPS3R WARUGUNUNG,,Jl. Mastrip Warugunung,Kec.  Karangpilang,Kel.  Waru Gunung,TPS 3R,2019,TPS 3R,compactor,2020,aktif,20,2421.12,2421.12,1139.316667,0,
+3,2025,RUKOM SRIKANA,,Jl. Srikana - Universitas Airlangga,Kec.  Gubeng,Kel.  Airlangga,Rumah Kompos,2008,Rumah Kompos,armroll,,aktif,14,0.111111111,0.111111111,0.111111111,,
+3,2025,RUKOM RUNGKUT ASRI,,Jl. Rungkut Asri,Kec.  Rungkut,Kel.  Rungkut Kidul,Rumah Kompos,2013,Rumah Kompos,armroll,,aktif,20,13.58333333,13.58333333,13.58333333,,
+3,2025,RUKOM TENGGILIS UTARA,,Jl. Tenggilis Utara,Kec.  Tenggilis Mejoyo,Kel.  Tenggilis Mejoyo,Rumah Kompos,2007,Rumah Kompos,armroll,,aktif,14,3.355555556,3.355555556,3.355555556,,
+3,2025,RUKOM TENGGILIS RAYON TAMAN,,Jl. Tenggilis Tengah,Kec.  Tenggilis Mejoyo,Kel.  Tenggilis Mejoyo,Rumah Kompos,2010,Rumah Kompos,armroll,,aktif,14,4.261111111,4.261111111,4.261111111,,
+3,2025,RUKOM BIBIS KARAH,,Jl. Depo Sampah Bibis Karah,Kec.  Jambangan,Kel.  Karah,Rumah Kompos,2010,Rumah Kompos,armroll,,aktif,14,2.244444444,2.244444444,2.244444444,,
+3,2025,RUKOM TAMBAK WEDI,,Jl. Tambak Wedi Baru,Kec.  Kenjeran,Kel.  Tambak Wedi,Rumah Kompos,2017,Rumah Kompos,armroll,,aktif,8,4.444444444,4.444444444,4.444444444,,
+3,2025,RUKOM TAMBAK DERES,,Jl. Kyai Tambak Deres,Kec.  Bulak,Kel.  Bulak,Rumah Kompos,2013,Rumah Kompos,armroll,,aktif,8,,,,,
+3,2025,RUKOM GUNUNGSARI,,Jl. Golf 4 Komplek Marinir Gunungsari,Kec.  Dukuh Pakis,Kel.  Gunungsari,Rumah Kompos,2011,Rumah Kompos,armroll,,aktif,14,3.255555556,3.255555556,3.255555556,,
+3,2025,RUKOM PUTAT,,Jl. Makam Putat Jaya,Kec.  Sawahan,Kel.  Putat Jaya,Rumah Kompos,2009,Rumah Kompos,armroll,,aktif,14,0.422222222,0.422222222,0.422222222,,
+3,2025,RUKOM BRATANG,,Jl. Manyar,Kec.  Gubeng,Kel.  Baratajaya,Rumah Kompos,2001,Rumah Kompos,armroll,,aktif,40,11.37777778,11.37777778,11.37777778,,
+3,2025,RUKOM GAYUNGSARI,,Jl. Gayungsari IV,Kec.  Gayungan,Kel.  Gayungan,Rumah Kompos,2008,Rumah Kompos,armroll,,aktif,8,2.755555556,2.755555556,2.755555556,,
+3,2025,RUKOM TUBANAN,,Jl. Tubanan Tandes,Kec.  Tandes,Kel.  Tandes,Rumah Kompos,2013,Rumah Kompos,armroll,,aktif,14,0.922222222,0.922222222,0.922222222,,
+3,2025,RUKOM RUNGKUT ASRI TIMUR (MERR),,Jl. Rungkut Asri Timur III,Kec.  Rungkut,Kel.  Rungkut Kidul,Rumah Kompos,2013,Rumah Kompos,armroll,,aktif,40,13.23333333,13.23333333,13.23333333,,
+3,2025,RUKOM IPLT KEPUTIH,,Jl. Keputih Tegal (Area IPLT Keputih),Kec.  Sukolilo,Kel.  Keputih,Rumah Kompos,2015,Rumah Kompos,armroll,,aktif,14,6.522222222,6.522222222,6.522222222,,
+3,2025,RUKOM BABAT JERAWAT,,Jl. Raya Babat Jerawat,Kec.  Pakal,Kel.  Babat Jerawat,Rumah Kompos,2014,Rumah Kompos,armroll,,aktif,14,3.944444444,3.944444444,3.944444444,,
+3,2025,RUKOM MEDOKAN AYU,,Jl. Medokan Asri Tengah VI,Kec.  Rungkut,Kel.  Medokan Ayu,Rumah Kompos,2017,Rumah Kompos,armroll,,aktif,14,3.011111111,3.011111111,3.011111111,,
+3,2025,RUKOM JANGKAR,,Jl. Jambangan Baru VI (Taman Jangkar),Kec.  Jambangan,Kel.  Jambangan,Rumah Kompos,2014,Rumah Kompos,armroll,,aktif,8,2.877777778,2.877777778,2.877777778,,
+3,2025,RUKOM WONOREJO 2,,Jl. Kendalsari - Wonorejo (Area Kebun Bibit Wonorejo),Kec.  Rungkut,Kel.  Wonorejo,Rumah Kompos,2017,Rumah Kompos,armroll,,aktif,60,26.47222222,26.47222222,26.47222222,,
+3,2025,RUKOM MBAH RATU,,Jl. Gresik Gadukan Timur (Makam Mbah Ratu),Kec.  Krembangan,Kel.  Morokrembangan,Rumah Kompos,2018,Rumah Kompos,armroll,,aktif,8,1.544444444,1.544444444,1.544444444,,
+3,2025,PEMILAHAN SUPERDEPO SUTOREJO,,Jl. Kalisari Timur - Sutorejo,Kec.  Mulyorejo,Kel.  Kalisari,TPS 3R,2013,TPS 3R,compactor,2013,aktif,20,1427.463333,1427.463333,691.03,0,
+3,2025,PEMILAHAN PDU JAMBANGAN,,Jl. Jambangan Kebon Agung,Kec.  Jambangan,Kel.  Jambangan,TPS 3R,2016,TPS 3R,compactor,2016,aktif,20,2003.656667,2003.656667,1370.41,0,
+3,2025,PEMILAHAN TPS 3R TAMBAK OSO WILANGUN,,Jl. Tambak Oso Wilangun Kelurahan,Kec.  Benowo,Kel.  Tambak Oso Wilangun,TPS 3R,2018,TPS 3R,compactor,2019,aktif,20,1175.043333,1175.043333,466.0333333,0,
+3,2025,PEMILAHAN BRATANG,,Jl. Manyar (Taman Flora),Kec.  Gubeng,Kel.  Baratajaya,TPS 3R,2016,TPS 3R,compactor,2016,aktif,5,850.1433333,850.1433333,470.3833333,0,
+3,2025,PLTSa BRATANG,,Jl. Manyar (Taman Flora),Kec.  Gubeng,Kel.  Baratajaya,PLTSa,2017,PLTSa,armroll,,tidak aktif,0,0,0,0,0,
+3,2025,PLTSa JAMBANGAN,,Jl. Jambangan Kebon Agung,Kec.  Jambangan,Kel.  Jambangan,PLTSa,2017,PLTSa,armroll,,tidak aktif,0,0,0,0,0,
+3,2025,TPS3R KedungCowek,,Jl. Raya Kedung Cowek No. 1 (jalan akses Jalan Lingkar Luar Timur),Kec.  Kenjeran,Kel.  Kedung Cowek,TPS 3R,2019,TPS 3R,compactor,2019,aktif,20,675.51,675.51,349.1666667,0,
+3,2025,TPS3R TENGGILIS,,Jl. Tenggilis Barat I,Kec.  Tenggilis Mejoyo,Kel.  Tenggilis Mejoyo,TPS 3R,2019,TPS 3R,compactor,2020,aktif,20,614.89,614.89,390.4366667,0,
+3,2025,RUKOM LIPONSOS KEPUTIH,,Jl. Keputih Tegal 32,Kec.  Sukolilo,Kel.  Keputih,Rumah Kompos,2010,Rumah Kompos,armroll,,aktif,8,0.066666667,0.066666667,0.066666667,,
+3,2025,RUKOM WONOREJO,,Jl. Kendalsari Kebun Bibit Wonorejo,Kec.  Rungkut,Kel.  Wonorejo,Rumah Kompos,2007,Rumah Kompos,armroll,,aktif,20,0.111111111,0.111111111,0.111111111,,
+3,2025,RUKOM JAMBANGAN,,Jl. Kebon Agung no 1,Kec.  Jambangan,Kel.  Jambangan,Rumah Kompos,2013,Rumah Kompos,armroll,,aktif,40,13.58333333,13.58333333,13.58333333,,
+3,2025,RUKOM BALAS KLUMPRIK,,Jl. Balas Klumprik PDAM,Kec.  Wiyung,Kel.  Balas Klumprik,Rumah Kompos,2011,Rumah Kompos,armroll,,aktif,14,3.355555556,3.355555556,3.355555556,,
+3,2025,TPS 3R Banjarsugihan,,Jl Banjarsugihan Gang Rolax,Kec. Tandes,Kel. Banjar Sugihan,TPS 3R,2023,TPS 3R,compactor,2024,aktif,20,0,0,0,,
+3,2025,RUKOM NGINDEN JANGKUNGAN,,Jl. Nginden Jangkungan,Kec. Sukolilo,Kel. Nginden Jangkungan,Rumah Kompos,2023,Rumah Kompos,armroll,2024,aktif,14,14,14,14,,
+3,2025,TPS 3R Tambakwedi,,Jl. Kedung Cowek - Suramadu,Kec. Kenjeran,Kel. Tambak Wedi,TPS 3R,2024,TPS 3R,compactor,2024,aktif,20,20,20,20,,
+3,2025,TPS 3R Sumberejo,,Jl. Raya Sumberejo - Pakal,Kec. Pakal,Kel. Sumber Rejo,TPS 3R,2024,TPS 3R,compactor,2024,aktif,20,20,20,20,,
