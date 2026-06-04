@@ -151,6 +151,7 @@ Meliputi:
 ## Laporan Teknis Komprehensif
 
 Dokumentasi lengkap proyek mulai dari data understanding hingga deployment.
+Link Gdrive Laporan Komprehensif : https://drive.google.com/file/d/16bbu_peSCBVgyyoCAtrtMwEujRUB28B9/view?usp=sharing
 
 
 # 📄 Penjelasan File
